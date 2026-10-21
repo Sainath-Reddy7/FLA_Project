@@ -1,6 +1,6 @@
 # FLA Project — Automata Simulators in Java
 
-![Java](https://img.shields.io/badge/Java-21%20%2B%208%20compatible-orange) ![Programs](https://img.shields.io/badge/Programs-5-blue) ![Viva%20Questions](https://img.shields.io/badge/Viva%20Questions-68-green)
+![Java](https://img.shields.io/badge/Java-21%20%2B%208%20compatible-orange) ![Programs](https://img.shields.io/badge/Programs-5-blue)
 
 Five console programs for the **Formal Languages & Automata (FLA)** lab: simulating a DFA,
 converting an NFA to a DFA, minimizing a DFA, intersecting two DFAs and simulating a PDA —
@@ -27,9 +27,6 @@ transition tables / stack traces, and has been tested end-to-end on the sample m
 FLA_Project/
 ├── README.md                 <- this file
 ├── HOW_TO_RUN.md             <- setup + every tested sample input, step by step
-├── Viva_Questions.md         <- 68 automata-theory viva questions (3 levels)
-├── Java_Basics_Viva.md       <- Java viva prep (static, data structures, core Java)
-├── FLA_Project_Viva_Prep.pdf <- printable 15-page study guide (all of the above)
 ├── for_submission/           <- the 5 programs (clean copy)
 ├── with_comments/            <- same 5 programs, every line explained
 └── samples/                  <- ready-to-pipe input files for all demo machines
@@ -106,12 +103,9 @@ process them use the **Java Collections** chosen for what each step needs:
 | Intersection machine | `static class DFA` | one object bundles n, delta, start, isFinal |
 | Text built in loops | `StringBuilder` | String is immutable; StringBuilder is not |
 
-## Documentation & viva preparation
+## Documentation
 
 - [HOW_TO_RUN.md](HOW_TO_RUN.md) — installation, compile/run, all sample inputs with expected outputs, common errors
-- [Viva_Questions.md](Viva_Questions.md) — 68 theory questions from basics to advanced (DFA, NFA, minimization, PDA, closure properties)
-- [Java_Basics_Viva.md](Java_Basics_Viva.md) — "what is static?", the data-structures master table, core-Java rapid fire — every answer tied to a real line of this code
-- `FLA_Project_Viva_Prep.pdf` — all of the above as a printable 15-page guide with a last-page cheat sheet
 
 ## Author
 

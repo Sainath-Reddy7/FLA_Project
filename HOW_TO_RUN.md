@@ -5,9 +5,6 @@
 FLA_Project/
   README.md              <- project overview, tables, design notes
   HOW_TO_RUN.md          <- this file
-  Viva_Questions.md      <- theory viva (automata: DFA/NFA/PDA), 68 questions
-  Java_Basics_Viva.md    <- JAVA viva (static, data structures, core Java)
-  FLA_Project_Viva_Prep.pdf  <- printable 15-page study guide
   with_comments/         <- read these to understand (every line explained)
   for_submission/        <- clean copy to show your sir
   samples/               <- ready-made input files for all demo machines
