@@ -1,0 +1,13 @@
+2
+0
+Z
+2
+5
+0 a Z 0 AZ
+0 a A 0 AA
+0 b A 1 e
+1 b A 1 e
+1 e Z 1 e
+aabb
+aab
+exit

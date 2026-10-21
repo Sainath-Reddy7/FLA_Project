@@ -1,0 +1,22 @@
+3
+0
+Z
+1
+1
+2
+12
+0 a Z 0 aZ
+0 b Z 0 bZ
+0 a a 0 aa
+0 a b 0 ab
+0 b a 0 ba
+0 b b 0 bb
+0 e Z 1 Z
+0 e a 1 a
+0 e b 1 b
+1 a a 1 e
+1 b b 1 e
+1 e Z 2 Z
+abba
+aba
+exit
